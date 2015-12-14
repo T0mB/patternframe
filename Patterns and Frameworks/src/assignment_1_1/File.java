@@ -4,7 +4,7 @@ public class File {
 	private String naam;
 
 	public File() {
- //test
+ 
 	}
 
 	public String getNaam() {
